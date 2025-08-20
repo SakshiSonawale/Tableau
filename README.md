@@ -21,8 +21,8 @@ This repo contains interactive dashboards I’ve built while learning data visua
 
 **🎯 Learning Goals**
 
-Improve data visualization skills
+- Improve data visualization skills
 
-Practice storytelling with data
+- Practice storytelling with data
 
-Build a portfolio to showcase to recruiters and employers
+- Build a portfolio to showcase to recruiters and employers
