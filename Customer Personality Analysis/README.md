@@ -1,3 +1,5 @@
+**Customer Personality Analysis – Tableau Dashboard**
+
 # About the Dataset
 
 ## Context
@@ -49,3 +51,46 @@ For example, instead of spending money to market a new product to every customer
 
 ## Target
 The goal is to **perform clustering to summarize customer segments**.  
+
+# 📝 Report – Customer Segmentation
+
+Based on clustering analysis, customers were divided into **3 segments**:  
+- **Cluster 1 → Highly Active Customers**  
+- **Cluster 2 → Moderately Active Customers**  
+- **Cluster 3 → Least Active Customers**  
+
+---
+
+## 🔹 Characteristics of Highly Active Customers (Cluster 1)
+- **Education**: Mostly Postgraduate background  
+- **Marital Status**: People in a relationship ≈ 2× single people  
+- **Income**: Slightly lower than moderately active customers  
+- **Kids**: More children compared to other clusters (avg. ~1 child)  
+- **Expenses**: Spend on average **100–200 units**  
+- **Age**: Range 25–75; most between 40–50 years  
+- **Engagement**: Loyal, enrolled with company for longer period of time  
+
+---
+
+## 🔹 Characteristics of Moderately Active Customers (Cluster 2)
+- **Education**: Mostly Postgraduate background  
+- **Marital Status**: Slightly more in relationship than single  
+- **Income**: Higher compared to other clusters  
+- **Kids**: Fewer children (majority have none)  
+- **Expenses**: Spend on average **500–2000 units**  
+- **Age**: Range 25–75; most between 35–60 years  
+- **Engagement**: Slightly less loyal compared to highly active customers  
+
+---
+
+## 🔹 Characteristics of Least Active Customers (Cluster 3)
+- **Education**: Mostly Undergraduate background  
+- **Marital Status**: Relationship ≈ Single (almost equal)  
+- **Income**: Very low or negligible  
+- **Kids**: Only a few have children  
+- **Expenses**: Very low or negligible  
+- **Age**: Range 15–30 years  
+- **Engagement**: Not engaged with company for long duration  
+
+---
+
