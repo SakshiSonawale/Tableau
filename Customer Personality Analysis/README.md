@@ -1,4 +1,4 @@
-**Customer Personality Analysis – Tableau Dashboard**
+## Customer Personality Analysis – Tableau Dashboard
 
 
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers.  
