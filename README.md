@@ -12,3 +12,17 @@ This repo contains interactive dashboards I’ve built while learning data visua
 - Focused on storytelling and deriving business/real-world insights
 
 - Created as part of my learning journey in data analytics
+
+**🔧 Tools Used**
+
+- Tableau (for dashboard creation)
+
+- Excel / CSV datasets
+
+**🎯 Learning Goals**
+
+Improve data visualization skills
+
+Practice storytelling with data
+
+Build a portfolio to showcase to recruiters and employers
