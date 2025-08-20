@@ -1,8 +1,6 @@
 **Customer Personality Analysis – Tableau Dashboard**
 
-# About the Dataset
 
-## Context
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers.  
 It helps businesses better understand their customers and makes it easier to modify products according to the specific needs, behaviors, and concerns of different customer types.  
 
