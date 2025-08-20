@@ -1,12 +1,12 @@
-* 📊 Tableau Dashboards
+**📊 Tableau Dashboards**
 
 Welcome to my Tableau projects repository!
 This repo contains interactive dashboards I’ve built while learning data visualization and analytics. Each project focuses on exploring datasets, uncovering insights, and presenting them in a clear and engaging way.
 
-* 🚀 About the Projects
+ **🚀 About the Projects**
 
 - Designed using Tableau Desktop/Public
-- 
+  
 - Showcases different visualization techniques (bar charts, line charts, maps, KPIs, etc.)
 
 - Focused on storytelling and deriving business/real-world insights
