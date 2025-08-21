@@ -32,17 +32,17 @@ company_size → Company size (Small, Medium, Large)
 
 ## 🎯 Goal
 
-The aim is to analyze salary trends in the Data Science field and uncover insights about:
+-The aim is to analyze salary trends in the Data Science field and uncover insights about:
 
-Which roles are highest/lowest paid
+- Which roles are highest/lowest paid
 
-How experience level affects salaries
+- How experience level affects salaries
 
-Salary differences across employment types
+- Salary differences across employment types
 
-The impact of remote work on compensation
+- The impact of remote work on compensation
 
-Regional and company size-based salary variations
+- Regional and company size-based salary variations
 
 ## 📌 Conclusion
 
