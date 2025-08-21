@@ -44,9 +44,38 @@ company_size → Company size (Small, Medium, Large)
 
 - Regional and company size-based salary variations
 
+## 📝 Report – Key Insights
+
+Experience Level: Majority are Senior (46.13%), followed by Intermediate (35.09%) and Entry-level (14.50%).
+
+Employment Type: Mostly Full-time (96.87%); very few part-time or freelance roles.
+
+Company Size: Medium companies (53.71%) dominate, then Large (32.62%) and Small (13.67%).
+
+Geography: Dataset is US-centric (332 employees), with smaller shares from GB, IN, CA, and DE.
+
+Salaries: 
+
+Entry-level ≈ 30k–60k USD
+
+Intermediate ≈ 95k–110k USD
+
+Senior ≈ 100k–160k USD
+
+Expert outliers ≈ 200k–270k+ USD
+
+Job Roles: Highest salaries for Data Analysts (Expert ~278.5k) and Analytics Engineers (Senior ~155–195k). Entry-level analysts/vision engineers earn ~30k.
+
+
 ## 📌 Conclusion
 
-This dashboard provides an end-to-end view of compensation trends in the Data Science industry.
+The dashboard highlights that:
+
+- The Data Science job market is senior-heavy, with full-time roles dominating.
+
+- Salaries grow significantly with experience, peaking at senior/executive levels.
+
+- US professionals set the benchmark for global salaries in this dataset.
 
 
 
