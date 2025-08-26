@@ -92,3 +92,4 @@ Based on clustering analysis, customers were divided into **3 segments**:
 
 ---
 
+### ⭐ If you found this project insightful, don’t forget to star the repo!
