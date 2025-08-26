@@ -77,7 +77,7 @@ The dashboard highlights that:
 
 - US professionals set the benchmark for global salaries in this dataset.
 
-
+### ⭐ If you found this project insightful, don’t forget to star the repo!
 
 
 
