@@ -79,8 +79,8 @@ The dashboard highlights that:
 
 ### ⭐ If you found this project insightful, don’t forget to star the repo!
 
-
-
+## Snapshot
+![Tableau Dashboard](https://github.com/SakshiSonawale/Tableau/blob/main/Data%20Science%20Job%20Salaries/Snapshot%20of%20the%20dashboard.PNG)
 
 
 
